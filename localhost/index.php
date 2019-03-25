@@ -3,7 +3,7 @@
 
     <head>
         <meta charset="UTF-8">
-        <title>Title</title>
+        <title>TestWeb</title>
         <link rel="stylesheet" href="css/style.css" >
         <link href="https://fonts.googleapis.com/css?family=Baloo+Chettan" rel="stylesheet">
         <script type="text/javascript" src="/js/jquery.js"></script>
