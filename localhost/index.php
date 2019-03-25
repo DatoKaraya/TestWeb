@@ -6,6 +6,7 @@
         <title>TestWeb</title>
         <link rel="stylesheet" href="css/style.css" >
         <link href="https://fonts.googleapis.com/css?family=Baloo+Chettan" rel="stylesheet">
+         <script type="text/javascript" src="/js/form.js"></script>
         <script type="text/javascript" src="/js/jquery.js"></script>
         <script type="text/javascript" src="/js/upload.js"></script>
     </head>
